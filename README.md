@@ -1,2 +1,2 @@
-# ControlBoards
-Control boards offered up over the years including 23port Lighting Boards, 24port High Power Boards, cabBlaster Boards
+# cabBlaster
+Source code for the cabBlaster line of control boards including the source for the configuration utility and the driver code for DOF

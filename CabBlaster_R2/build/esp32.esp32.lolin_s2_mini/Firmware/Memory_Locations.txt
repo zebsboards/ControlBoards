@@ -1,0 +1,4 @@
+0x1000  \VirtuaPinUpdater\VirtuaPinUpdater\Firmware Update\Firmware BIN Files\VirtuaPinR1_26.bootloader.bin
+0x8000  \VirtuaPinUpdater\VirtuaPinUpdater\Firmware Update\Firmware BIN Files\VirtuaPinR1_26.partitions.bin
+0xe000  \VirtuaPinUpdater\VirtuaPinUpdater\Firmware Update\Firmware BIN Files\boot_app0.bin.bin
+0x10000 \VirtuaPinUpdater\VirtuaPinUpdater\Firmware Update\Firmware BIN Files\VirtuaPinR1_26.bin
